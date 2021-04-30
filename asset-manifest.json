@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/suhaildealshare/monsters/static/css/main.599298f0.chunk.css",
+    "main.js": "/suhaildealshare/monsters/static/js/main.f23edb8e.chunk.js",
+    "main.js.map": "/suhaildealshare/monsters/static/js/main.f23edb8e.chunk.js.map",
+    "runtime-main.js": "/suhaildealshare/monsters/static/js/runtime-main.478ff2cc.js",
+    "runtime-main.js.map": "/suhaildealshare/monsters/static/js/runtime-main.478ff2cc.js.map",
+    "static/js/2.69c54dc7.chunk.js": "/suhaildealshare/monsters/static/js/2.69c54dc7.chunk.js",
+    "static/js/2.69c54dc7.chunk.js.map": "/suhaildealshare/monsters/static/js/2.69c54dc7.chunk.js.map",
+    "static/js/3.cd09f981.chunk.js": "/suhaildealshare/monsters/static/js/3.cd09f981.chunk.js",
+    "static/js/3.cd09f981.chunk.js.map": "/suhaildealshare/monsters/static/js/3.cd09f981.chunk.js.map",
+    "index.html": "/suhaildealshare/monsters/index.html",
+    "static/css/main.599298f0.chunk.css.map": "/suhaildealshare/monsters/static/css/main.599298f0.chunk.css.map",
+    "static/js/2.69c54dc7.chunk.js.LICENSE.txt": "/suhaildealshare/monsters/static/js/2.69c54dc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.478ff2cc.js",
+    "static/js/2.69c54dc7.chunk.js",
+    "static/css/main.599298f0.chunk.css",
+    "static/js/main.f23edb8e.chunk.js"
+  ]
+}
